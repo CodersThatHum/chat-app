@@ -7,7 +7,7 @@ This is an [Expo](https://expo.dev) project created with [`create-gluestack-app`
 1. Start the app
 
    ```bash
-    npm run start
+    bun run start
    ```
 
 In the output, you'll find options to open the app in a
